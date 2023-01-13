@@ -1,0 +1,383 @@
+body{
+  margin: 0px;
+}
+
+.nav ,.navBar ,.homeItems ,.parent{
+  display: flex;
+}
+
+.list ,.navLogo ,.child{
+  display: inline;
+}
+
+.list{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.navLogo{
+  padding-top: 16px;
+  padding-left: 10%;
+  padding-right: 50%;
+}
+
+.heading{
+  text-align: center;
+  padding-top: 5%;
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  /* font-family: 'Fredoka One', cursive; */
+  font-family: 'Fredoka One', cursive;
+
+  /* font-family: 'Ubuntu', sans-serif; */
+
+  font-size: 15px;
+}
+
+.img{
+  padding-top: 10%;
+  padding-left: 20%;
+}
+
+.imgg, .pic{
+  margin-bottom: 57px;
+}
+
+.home{
+  padding-left: 10%;
+  padding-top: 5%;
+  font-size: 30px;
+}
+
+.blue{
+  color:  rgb(108,99,255) ;
+}
+.white{
+  color:  rgb(255, 255, 255) ;
+}
+
+.bgBlue{
+  background-color: rgb(108,99,255) ;
+}
+
+.sotial{
+  padding-top: 40px;
+}
+
+.sotialItem{
+  font-size: 30px;
+  padding-right: 20px;
+}
+
+.half{
+  padding-left: 5%;
+  padding-top: 5%;
+  margin-right: 10%;
+}
+
+.fatFont{
+  font-family: 'Fredoka One', cursive;
+
+}
+
+.pic{
+  padding-left: 10%;
+}
+
+.round{
+  border-radius: 15px;
+}
+
+.text{
+  font-size: 20px;
+}
+
+.text2{
+  font-size: 15px;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.text3{
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.spaceRight{
+  padding-right: 13px;
+}
+
+.shadow {
+  box-shadow: 5px 5px 5px rgba(46, 46, 46, 0.411);
+
+}
+
+#myProgress {
+  width: 100%;
+    background-color: rgb(255, 255, 255);
+  }
+  
+#myBarHTML {
+  width: 95%;
+  height: 30px;
+  background-color: rgb(108,99,255);
+}
+#myBarCSS {
+  width: 82%;
+  height: 30px;
+  background-color: rgb(108,99,255);
+}
+#myBarJS {
+  width: 55%;
+  height: 30px;
+  background-color: rgb(108,99,255);
+}
+#myBarPHP {
+  width: 70%;
+  height: 30px;
+  background-color: rgb(108,99,255);
+}
+#myBarC {
+  width: 82%;
+  height: 30px;
+  background-color: rgb(108,99,255);
+}
+#myBarCpp {
+  width: 73%;
+  height: 30px;
+  background-color: rgb(108,99,255);
+}
+#myBarCs {
+  width: 78%;
+  height: 30px;
+  background-color: rgb(108,99,255);
+}
+#myBarJava {
+  width: 80%;
+  height: 30px;
+  background-color: rgb(108,99,255);
+}
+
+.laptopImage{
+  height: auto;
+  width: 80%;
+  border-radius: 15px;
+  margin-top: 40px;
+}
+
+.progress{
+  padding-left: 10%;
+  padding-right: 5%;
+  width: 50%;
+}
+
+.round{
+  border-radius: 12px;
+}
+
+.skillText{
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+.skills{
+margin-left: 10% ;
+margin-top: 5%;
+}
+
+.batch{
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.rank{
+margin-left: 1%;
+}
+
+.batchImg{
+  margin-left: 28px;
+  margin-right: 28px;
+  width: auto;
+  height: 90px;
+}
+
+.salesforce{
+  margin-bottom: 30px;
+}
+
+.contact{
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 50px;
+}
+
+.form{
+  padding-top:30px;
+  padding-bottom:30px;
+  text-align: center;
+}
+
+.contactImage{
+  width: auto;
+  height: 10%;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+}
+
+.about{
+
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.field{
+  width: 300px;
+  margin-top: 10px;
+}
+
+.button{
+  padding: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 10px;
+  font-size: 20px;
+  position: relative;
+  float: right;
+  background-color: #ffffff;
+  color: rgb(108,99,255);
+}
+
+.textarea{
+  resize: none;
+}
+
+.heading2{
+  text-align: center;
+  padding-top: 5%;
+  font-size: 40px;
+  margin-bottom: 15px;
+  /* padding-bottom: 30px; */
+}
+
+.love{
+  text-align: center;
+  padding-bottom: 10px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  background-color: rgb(0,1,43);
+}
+
+.red{
+  color: red;
+}
+
+.footer{
+padding-top: 40px;
+
+padding-bottom: 30px;
+background-color: rgb(0,1,43);
+}
+
+.yellow{
+color: rgb(225,174,0);
+}
+
+.childfooter1{
+  width: 30%;
+  padding-left: 100px;
+  padding-right: 20px;
+}
+.childfooter2{
+  padding-left: 30px;
+  width: 15%;
+}
+.childfooter3{
+  width: 30%;
+  padding-left: 20px;
+  padding-right: 100px;
+}
+
+.footerlist{
+  margin-top: 10px;
+  text-align: left;
+  width:fit-content;
+  /* float: left; */
+}
+
+.listItem:hover , .footerlist:hover , .icon:hover{
+color: rgb(225,174,0);
+}
+
+.icon{
+  font-size: 30px;
+  padding-left: 30px;
+}
+
+.spacedetails{
+  margin-left: 10px;
+}
+
+.shadow:hover{
+  box-shadow: 5px 5px 20px rgba(46, 46, 46, 0.377);
+}
+
+.zoom {
+  transition: transform .2s; 
+}
+
+.zoom:hover {
+  transform: scale(1.05);
+}
+
+.zoom2 {
+  transition: transform .2s; 
+}
+
+.zoom2:hover {
+  transform: scale(1.5);
+}
+
+.zoom3 {
+  transition: transform .2s; 
+}
+
+.zoom3:hover {
+  transform: scale(1.2);
+}
+
+.link:hover{
+ background-color: rgb(255, 255, 255);
+ color: rgb(107, 99, 255);
+}
+
+.top{
+  margin-top: 20px;
+}
+
+.navlist{
+  padding-left: 30px;
+}
+
+.navbar {
+  background-color: rgb(107, 99, 255);
+  position: fixed;
+  width: 100%; 
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
